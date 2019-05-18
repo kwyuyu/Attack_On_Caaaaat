@@ -1,9 +1,17 @@
 # Attack On Caaaaat
 Attack On Caaaat is a 1-2 player game on MacOS/WindowOS platform built with Unity.
 
+<p align="center">
+<img src="./images/intro.gif" width="500">
+</p>
+
 ## Getting Started
 ### Demo
-The demo video can be found in [Demo video](https://www.youtube.com/watch?v=BL3HDIxt22I&feature=youtu.be).
+<p align="center">
+<img src="./images/gameDemo.gif" width="500">
+</p>
+
+The full version of demo video can be found in [Demo video](https://www.youtube.com/watch?v=BL3HDIxt22I&feature=youtu.be).
 
 ### Downloading
 Download via this [link](https://drive.google.com/file/d/1qlinQ97n3D2Ah1w_CJiWSfXXiV68Tvwv/view?usp=sharing) for both the MacOS and WindowOS release.
