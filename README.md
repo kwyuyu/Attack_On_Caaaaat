@@ -20,8 +20,6 @@ Download via this [link](https://drive.google.com/file/d/1qlinQ97n3D2Ah1w_CJiWSf
 * **Kung-Wen Yu** 
 * **Yu-Chun Yen** 
 
-## License
-
 ## Music Source
 * Menu Background music: [進撃の巨人 OP 1 紅蓮の弓矢 完全版](https://www.youtube.com/watch?v=mdSXKdnLX9I).
 * Game Playing Background music: [He's a pirate 加勒比海盗主题音乐 orchestra](https://www.youtube.com/watch?v=sy7qxqSyHHw).
